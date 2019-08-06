@@ -12,7 +12,7 @@
 #### Task
 - [x] Create github account
 - [x] commit a readme file
-- [ ] \make more stuff 
+- [ ] \ make more stuff 
   - [ ] edit and commit
   - [ ] more and more stuff
 
