@@ -7,5 +7,5 @@
   - amazing
   
 ### Link
-  If i could just watch some videos about this on [Stupidtube](www.youtube.com)
+  If i could just watch some videos about this on [Stupidtube](https://www.youtube.com/?gl=DE&hl=de)
 
